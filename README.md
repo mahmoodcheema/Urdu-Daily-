@@ -1,2 +1,2 @@
-# Urdu-Daily-
+# UrduDaily
 News Website 
